@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Довідник студента</string>
+    <string name="default_text">Список студентів</string>
+    <string name="btn_text">Показати список</string>
+    <string name="btn_send">Відправити повідомленням</string>
+
+    <string name="faculty_txt">Факультет:</string>
+    <string name="grp_number_txt">Номер групи:</string>
+
+    <string name="btn_ok_txt">Ok</string>
+    <string name="btn_grp_detail_txt">Детальніше...</string>
+
+    <string-array name="students_groups">
+        <item>301</item>
+        <item>302</item>
+        <item>308</item>
+        <item>309</item>
+        <item>501m</item>
+    </string-array>
+</resources>
