@@ -1,8 +1,8 @@
 import java.util.Scanner;
-class Strana{
-    String name; //   Назва
-    double square; // Площя
-}
+//class Strana2{
+//    String name; //   Назва
+//    double square; // Площя
+//}
 
 public class RecordCountry2 {
     public static Strana[] setCountryArr(int k) {
